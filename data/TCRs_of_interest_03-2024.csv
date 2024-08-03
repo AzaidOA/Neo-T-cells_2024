@@ -1,0 +1,12 @@
+name,clonotype.tag,color.code,avg.affinity
+OTCR1,clonotype597,#483D8B,0.064491
+Tcon4,clonotype533,#DC143C,0.070433
+Tcon6,clonotype540,#FFD700,0.120593333
+Tcon7,clonotype538,#228B22,0.026648667
+Tcon9,clonotype545,#1E90FF,0.017195946
+Tcon11,clonotype548,#D2691E,0.014437667
+Tcon12,clonotype549,#BA55D3,0.011194333
+Treg1,clonotype660,#FF6347,0.00549
+Treg6,clonotype667,#5F9EA0,0.031175333
+Treg7,clonotype621,#F4A460,0.069579667
+Others,Others,#C0C0C0,NA
