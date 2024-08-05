@@ -19,8 +19,7 @@ The raw and processed single-cell RNA-seq and TCR-seq files are available via th
 ### Single-cell Analysis
 
 - **Demultiplexing and Mapping**: Utilize our in-house pipeline along with Cell Ranger for demultiplexing and mapping.
-- **Quality Control**: Employ our in-house pipeline for single-cell quality control measures.
-- **Clustering**: Generate clusters using our in-house pipeline integrated with Seurat.
+- **Quality control and clustering**: Employ our in-house pipeline for single-cell quality control measures and generation of clusters.
 - **VDJ Libraries Aggregation**: Aggregate VDJ libraries using our in-house [pipeline](https://github.com/vijaybioinfo/VDJ_aggr).
 
 ## Citation
